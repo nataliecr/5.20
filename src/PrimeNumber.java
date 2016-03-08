@@ -10,7 +10,7 @@ public class PrimeNumber {
    System.out.println("The primes between 2 and 1000 are \n");
 
    // Repeatedly find prime numbers
-   while (count < 1000) {
+   while (number < 1000) {
    // Assume the number is prime
      boolean isPrime = true; // Is the current number prime?
 
